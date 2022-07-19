@@ -1,0 +1,142 @@
+.primary-nav {
+    display: flex;
+    padding: 5px;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav-item2 {
+    font-family:'Poppins', 'Arial', sans-serif !important;
+    font-size: 25px;
+    letter-spacing: 2px;
+    font-weight: medium;
+    color: #E38268;
+}
+.nav-link:hover {
+    color: #F49A67;
+
+}
+.nav-item {
+    font-family:'Poppins', 'Arial', sans-serif;
+    font-size: 36px;
+    color: #3E824B;
+    letter-spacing: 3px;
+    padding: 16px 32px;
+    align-items: center;
+}
+
+.nav-item:hover{
+    font-weight: bold;
+}
+
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+}
+    
+.Main-Logo {
+    display: flex;
+    width: 450px;
+    height: 253px;
+    justify-content: center;
+}
+
+ul li { 
+    display: inline;
+    width: 50%;
+    margin-left: auto;
+    list-style-type: none;
+}
+.social-logo {
+    display: flex;
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+}
+
+.title {
+    background-color: #E38268;
+    padding: 35px;
+}
+h2 {
+    font-family:'Poppins', 'Arial', sans-serif !important;
+    font-size: 25px;
+    letter-spacing: 2px;
+    font-weight: medium;
+    color: white;
+}
+h3 {
+    font-family:'Poppins', 'Arial', sans-serif !important;
+    font-size: 45px;
+    letter-spacing: 2px;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 0;
+}
+h5 {
+    font-family:'Poppins', 'Arial', sans-serif !important;
+    font-size: 25px;
+    font-weight: bold;
+    color: #E38268;
+}
+.card-header {
+    background-color: #F0AA62 !important;
+    text-align: center !important;
+}
+.card-body {
+    font-family:'Poppins', 'Arial', sans-serif !important;
+    font-size: 18px;
+}
+.btn-link {
+    font-family:'Poppins', 'Arial', sans-serif !important;
+    font-size: 20px;
+    letter-spacing: 2px;
+    font-weight: medium;
+    color: white;
+    text-decoration: none !important;
+}
+.btn-link:hover {
+    color: #E38268;
+    font-size: 22px;
+    font-weight: bold;
+    text-decoration: none;
+}
+.titleHeader {
+    background-color: rgb(240,170,98, 0.25);
+    padding: 15px;
+    text-align: center;
+    font-family:'Poppins', 'Arial', sans-serif !important;
+    font-size: 30px;
+    letter-spacing: 2px;
+    font-weight: bold;
+    color: #E38268;
+}
+.bodyCopy {
+    font-family:'Poppins', 'Arial', sans-serif !important;
+    font-size: 20px;
+    padding: 60px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 85%;
+}
+.sitemap {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;  
+}
+.cardContainer {
+    margin-top: 20px;
+  }
+  .card {
+    margin: 0 auto;
+  }
+  .image2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
