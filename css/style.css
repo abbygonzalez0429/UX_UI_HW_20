@@ -19,7 +19,7 @@
 .nav-item {
     font-family:'Poppins', 'Arial', sans-serif;
     font-size: 36px;
-    color: #3E824B;
+    color: #3E824B !important;
     letter-spacing: 3px;
     padding: 16px 32px;
     align-items: center;
@@ -27,8 +27,14 @@
 
 .nav-item:hover{
     font-weight: bold;
+    color: #3E824B !important;
+    text-decoration: none;
 }
 
+a {
+    color: #3E824B !important;
+    text-decoration: none !important;
+}
 .inline-block {
     display: inline-block;
     vertical-align: top;
